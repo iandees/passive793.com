@@ -2,8 +2,8 @@
 
 /* Base styles */
 :root {
-  --primary-color: #025669; /* RAL 5009 Azure Blue */
-  --secondary-color: #E5BE01; /* RAL 1003 Signal Yellow */
+  --primary-color: #35677F; /* RAL 5009 Azure Blue */
+  --secondary-color: #F9AC25; /* RAL 1003 Signal Yellow */
   --text-color: #333;
   --light-bg: #f8f8f8;
   --dark-bg: #014554; /* Darker shade of Azure Blue */
